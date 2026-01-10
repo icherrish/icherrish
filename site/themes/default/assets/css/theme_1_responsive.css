@@ -1,0 +1,99 @@
+	/* Animated Horizontal Dropdown Menu (Theme 1) - Responsive */
+	.main-navigation-container-responsive{
+		display:none;
+		}
+@media only screen and (max-width: 1048px){
+	.main-navigation-container{
+		display:none;
+		}
+	/* ========== MAIN DIV THAT HOLDS THE ENTIRE NAVIGATION ========== */
+	.main-navigation-container-responsive{
+		display:block;
+		width:66%;
+		margin:60px auto 0;
+		}
+	/* ========== TOGGLE MENU ========== */	
+	.main-navigation-container-responsive .toggle-menu{
+		width:50px;
+		height:42px;
+		margin-bottom:8px;
+		display:block;		 
+		cursor:pointer;
+		background:#3A3A3A url(../images/icon-list.png) no-repeat center;
+		-webkit-border-radius:4px;
+		-moz-border-radius:4px;
+		border-radius:4px;
+		-webkit-box-shadow:0 0 5px #AAA;
+		-moz-box-shadow:0 0 5px #AAA;
+		box-shadow:0 0 5px #AAA;
+		}
+	.main-navigation-container-responsive .toggle-menu-clicked{
+		background-color:#4A4A4A;
+		-webkit-box-shadow:none;
+		-moz-box-shadow:none;
+		box-shadow:none;
+		}
+	/* ========== MAIN NAVIGATION ========== */
+	.main-navigation-responsive{
+		display:none;
+		overflow:hidden;
+		z-index:100;
+		background:#3A3A3A;
+		-webkit-border-radius:4px;
+		-moz-border-radius:4px;
+		border-radius:4px;
+		-webkit-box-shadow:0 0 8px #AAA;
+		-moz-box-shadow:0 0 8px #AAA;
+		box-shadow:0 0 8px #AAA;
+		} 		
+	/* ========== MAIN LINKS ========== */
+	.main-navigation-responsive ul{
+		margin:0;
+		padding:0;
+		list-style:none;
+		}
+	.main-navigation-responsive li{
+		width:100%;
+		float:left;
+		}
+	.main-navigation-responsive a{
+		display:block;
+		height:54px;
+		padding-left:20px;
+		font:20px/54px "BebasNeue"; 
+		color:#666;
+		text-decoration:none;
+		border-bottom:1px solid #444;
+		}
+	.main-navigation-responsive > ul > li:last-child > a{
+		border-bottom:none;
+		}
+	.main-navigation-responsive i{
+		margin-right:20px;
+		float:right;
+		font-size:24px;
+		line-height:50px;
+		font-style:normal;
+		}	
+	/* ========== LINK IS ACTIVE ========== */
+	.main-navigation-responsive .active-nav-link > a{
+		color:#FFF;
+		background:#444;
+		}
+	/* ========== SUBMENU ========== */
+	.main-navigation-responsive .submenu{
+		display:none;
+		}
+	.main-navigation-responsive .submenu a{
+		display:block;
+		height:50px;
+		padding-left:36px;
+		font:14px/50px Arial, Helvetica, sans-serif;
+		color:#FFF;
+		}
+	}
+@media only screen and (max-width: 480px){
+	.main-navigation-container-responsive{
+		width:88%;
+		}
+	}

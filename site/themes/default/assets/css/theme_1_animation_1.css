@@ -1,0 +1,121 @@
+/* Animated Horizontal Dropdown Menu (Theme 1) - Animation 1 */
+body{
+	margin:0;
+	}
+/* ========== THE MAIN FONT ========== */
+@font-face{
+	font-family:"BebasNeue";
+	src:url('../font/BebasNeue.eot');
+	src:url('../font/BebasNeue.eot?#iefix') format('embedded-opentype'),
+		url('../font/BebasNeue.woff') format('woff'),
+		url('../font/BebasNeue.ttf') format('truetype'),
+		url('../font/BebasNeue.svg#BebasNeue') format('svg');
+	}	
+/* ========== MAIN DIV THAT HOLDS THE ENTIRE NAVIGATION ========== */
+.main-navigation-container{
+	margin-top:200px; 
+	height:74px; 
+	background:#EEE;
+	border-bottom:solid 1px #D5D4D4;
+	overflow:hidden;
+	-webkit-box-shadow:0 0 5px rgba(170,170,170,.8);
+	-moz-box-shadow:0 0 5px rgba(170,170,170,.8);
+	box-shadow:0 0 5px rgba(170,170,170,.8);
+	}
+.main-navigation{
+	width:100%; 
+	height:38px; 
+	background:#3A3A3A;
+	}
+/* ========== MAIN LINKS ========== */
+.main-navigation ul{ 
+	width:980px;
+	position:relative;
+	margin:0 auto;
+	padding:0;
+	list-style:none;
+	}
+.main-navigation li{
+	float:left;
+	}
+.main-navigation a{
+	display:block;
+	height:38px; 
+	padding:0 16px; 
+	font:22px/38px "BebasNeue"; 
+	color:#FFF; 
+	text-decoration:none;
+	-webkit-transition:color 200ms linear, background 200ms linear;
+	-moz-transition:color 200ms linear, background 200ms linear;
+	-ms-transition:color 200ms linear, background 200ms linear;
+	-o-transition:color 200ms linear, background 200ms linear;
+	transition:color 200ms linear, background 200ms linear;
+	}
+/* ========== MAIN LINKS ON MOUSE HOVER ========== */				
+.main-navigation > ul:hover > .active-nav-link > a{
+	color:#FFF;
+	background:transparent;
+	}			
+.main-navigation > ul > .active-nav-link > a, 
+.main-navigation > ul > li:hover > a, 
+.main-navigation > ul > li.active-nav-link:hover > a{
+	color:#888;
+	background:#EEE;
+	}	
+/* ========== SUBMENU ========= */
+.main-navigation .submenu{
+	width:100%;
+	height:36px;
+	position:absolute;
+	left:0;
+	overflow:hidden;
+	}
+.main-navigation .submenu ul{
+	width:auto;
+	position:absolute;
+	left:0;
+	visibility:hidden;
+	opacity:0;
+	-webkit-transition:all 240ms ease-out 10ms;
+	-moz-transition:all 240ms ease-out 10ms;
+	-ms-transition:all 240ms ease-out 10ms;
+	-o-transition:all 240ms ease-out 10ms;
+	transition:all 240ms ease-out 10ms;
+	}
+.main-navigation .active-nav-link .submenu{
+	z-index:1;
+	}
+.main-navigation ul:hover .active-nav-link ul{
+	visibility:hidden;
+	opacity:0;
+	}
+.main-navigation li:hover .submenu{
+	z-index:2;
+	}
+.main-navigation .active-nav-link ul, 
+.main-navigation li:hover ul, 
+.main-navigation li.active-nav-link:hover ul{
+	visibility:visible;
+	opacity:1;
+	}
+/* ========== LINKS IN THE SUBMENU ========== */	
+.main-navigation .submenu a{
+	height:36px;
+	padding:0 10px;
+	font:14px/38px Arial, Helvetica, sans-serif; 
+	color:#888;
+	-webkit-transition:color 190ms ease-out 10ms;
+	-moz-transition:color 190ms ease-out 10ms;
+	-ms-transition:color 190ms ease-out 10ms;
+	-o-transition:color 190ms ease-out 10ms;
+	transition:color 190ms ease-out 10ms;
+	}
+/* ========== LINKS IN THE SUBMENU ON MOUSE HOVER ========== */
+.main-navigation .submenu ul:hover .active-nav-link a{
+	color:#888;
+	}
+.main-navigation .submenu .active-nav-link a, 
+.main-navigation .submenu li:hover a, 
+.main-navigation .submenu li.active-nav-link:hover a{
+	color:#111;
+	}

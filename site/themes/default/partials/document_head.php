@@ -6,7 +6,15 @@
     <link rel="dns-prefetch" href="//cse.google.com">
     <?php sp_head(); ?>
     <link rel="shortcut icon" type="image/x-icon" href="<?=base_uri('favicon.ico')?>">
+    <link rel="stylesheet" id="nav-animation-styles" type="text/css" href="<?=base_uri('/site/themes/default/assets/css/theme_1_animation_1.css')?>">
+    <link rel="stylesheet" id="nav-responsive-styles" type="text/css" href="<?=base_uri('/site/themes/default/assets/css/theme_1_responsive.css')?>">
 
+    <!--[if lt IE 9]>
+		<script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+	<![endif]-->
+
+    <script src="<?=base_uri('/site/themes/default/assets/js/jquery.min.js')?>"></script>
+    <script src="<?=base_uri('/site/themes/default/assets/js/custom.js')?>"></script>
     <script type="text/javascript">
         // Base URI to the site
         var base_uri = "<?=base_uri()?>";
