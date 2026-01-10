@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component xmlns="http://www.opensource-socialnetwork.org/v/3.0">
+    <name>Fediverse Bridge</name>
+    <id>FediverseBridge</id>
+    <description>Publishes public hashtag posts from opted-in users to the Fediverse (e.g. Mastodon) via ActivityPub.</description>
+    <author>Eric Redegeld</author>
+    <author_url>https://github.com/compie67</author_url>
+    <license>GNU General Public License v2</license>
+    <license_url>https://www.gnu.org/licenses/old-licenses/gpl-2.0.txt</license_url>
+    <version>1.0.2</version>
+    <requires>
+        <type>ossn_version</type>
+        <version>7.0</version>
+    </requires>
+    <requires>
+        <type>ossn_component</type>
+        <name>ContentSharing</name>
+        <comparator>enabled</comparator>
+    </requires>
+</component>

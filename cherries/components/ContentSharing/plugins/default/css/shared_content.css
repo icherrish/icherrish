@@ -1,0 +1,18 @@
+.comments-list > .comments-item,
+.menu-likes-comments-share,
+.ossn-photo-view .button-grey,
+.ossn-photo-menu,
+.blog-list-sort-option,
+.ossn-like-comment,
+.dropdown, dropup,
+.panel-footer,
+.ads-inserter {
+	display: none !important;
+}
+.ossn-wall-post-time:hover {
+	text-decoration: none;
+}
+.content-sharing-join-button {
+	text-align: center;
+	margin-bottom: 20px;
+}

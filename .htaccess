@@ -1,0 +1,19 @@
+# BEGIN Spark
+Options -Indexes -MultiViews +FollowSymLinks
+AddDefaultCharset UTF-8
+
+<IfModule mod_rewrite.c>
+RewriteEngine On
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule ^(.*)/$  /$1 [L,R=301]
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule ^ index.php [QSA,L]
+</IfModule>
+# END Spark
+
+php_value max_execution_time 500
+php_value memory_limit 64M
+php_value post_max_size 4M
+php_value max_input_time 500
+php_value upload_max_filesize 10M

@@ -1,0 +1,63 @@
+/***********************************
+	Administration Dashboard
+***********************************/
+
+.header { background: linear-gradient(45deg, #242526, #3A3B3C, #242526); }
+.navbar-default { background-color: #3A3B3C; }
+
+body { 
+background:#18191A;
+color: #B0B3B8;
+}
+
+.admin-dashboard-contents {
+background-color: #242526; 
+color: #B0B3B8;
+}
+
+.admin-dashboard-title {
+background: linear-gradient(45deg, #242526, #3A3B3C, #242526);
+color: #B0B3B8;
+text-align: center;
+} 
+
+.admin-dashboard-contents .text {
+color: #B0B3B8;
+}
+
+.page-title {
+background: linear-gradient(45deg, #242526, #3A3B3C, #242526);
+color: #B0B3B8;
+text-align: center;
+}
+
+.card-header { 
+color: #B0B3B8;
+background-color: #242526;
+}
+
+.card {
+background-color: #3A3B3C;
+}
+
+.table { 
+color: #B0B3B8;
+--bs-table-striped-color: #B0B3B8; 
+--bs-table-bg: transparent; }
+
+.table-titles { background-color: transparent; }
+
+label { color: #B0B3B8; }
+
+input[type='number'], input[type='email'], select, input[type="password"], input[type="text"], textarea { background: #3A3B3C; color: #B0B3B8; }
+
+form { background: transparent; }
+.form-control:disabled, .form-control[readonly] { background-color: #3A3B3C; }
+.form-control:focus { color: #009ACD; }
+
+.page-link { background-color: transparent; }
+
+.dropdown-menu { background-color: #3A3B3C; border-color: white; }
+.dropdown-item { color: white; }
+
+.report-item-read { background: #3A3B3C; }

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component xmlns="http://www.opensource-socialnetwork.org/v/3.0">
+    <name>Pinned Posts</name>
+    <id>PinnedPosts</id>
+    <description>Pin one or more selected posts on top of the newsfeed.</description>
+    <author>Michael Zülsdorff &amp; Dominik Lieger</author>
+    <author_url>https://comz.z-mans.net/</author_url>
+    <license>GNU General Public License v2</license>
+    <license_url>https://www.gnu.de/documents/gpl-2.0.en.html</license_url>
+    <version>7.3dev3</version>
+	<requires>
+		<type>ossn_version</type>
+		<version>7.2</version>
+	</requires>
+	<requires>
+		<type>ossn_component</type>
+		<name>OssnWall</name>
+		<version>6.5</version>
+	</requires>	
+</component>

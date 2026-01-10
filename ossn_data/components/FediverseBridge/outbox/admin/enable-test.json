@@ -1,0 +1,23 @@
+{
+    "@context": "https://www.w3.org/ns/activitystreams",
+    "id": "https://icherrish.com/cherries/fediverse/outbox/admin#activity-enable",
+    "type": "Create",
+    "actor": "https://icherrish.com/cherries/fediverse/actor/admin",
+    "published": "2025-10-22T11:43:54+00:00",
+    "to": [
+        "https://www.w3.org/ns/activitystreams#Public"
+    ],
+    "object": {
+        "@context": "https://www.w3.org/ns/activitystreams",
+        "id": "https://icherrish.com/cherries/fediverse/outbox/admin#note-enable",
+        "type": "Note",
+        "summary": null,
+        "attributedTo": "https://icherrish.com/cherries/fediverse/actor/admin",
+        "to": [
+            "https://www.w3.org/ns/activitystreams#Public"
+        ],
+        "content": "fediversebridge:enable:testmessage",
+        "published": "2025-10-22T11:43:54+00:00",
+        "url": "https://icherrish.com/cherries/shared_content/post/enable/preview/1761133434"
+    }
+}

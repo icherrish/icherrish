@@ -1,0 +1,82 @@
+
+---Downloaded files---
+The import files for: Solak Demo were successfully downloaded!
+Initial max execution time = 50
+Files info:
+Site URL = https://icherrish.com/company
+Data file = /home/icherrish.com/public_html/company/wp-content/themes/solak/inc/demo-data/solak-demo.xml
+Widget file = /home/icherrish.com/public_html/company/wp-content/themes/solak/inc/demo-data/solak-widgets-demo.json
+Customizer file = not defined!
+Redux files:
+solak_opt -> /home/icherrish.com/public_html/company/wp-content/themes/solak/inc/demo-data/redux_options_demo.json 
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+---Importing widgets---
+Blog Sidebar : 
+
+solak_search_form_widget - No Title - Site does not support widget
+solak_category_list_widget - Categories - Site does not support widget
+solak_recent_posts_widget - Recent Posts - Site does not support widget
+Block - No Title - Widget already exists
+
+Offcanvas Sidebar : 
+
+Block - No Title - Widget already exists
+solak_recent_posts_widget - Recent Posts - Site does not support widget
+Block - No Title - Widget already exists
+
+
+
+---Importing Redux settings---
+Redux settings import for: solak_opt finished successfully!
+
+---ocdi/after_import---
+

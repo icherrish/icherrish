@@ -1,0 +1,253 @@
+
+---Downloaded files---
+The import files for: Solak Demo were successfully downloaded!
+Initial max execution time = 50
+Files info:
+Site URL = https://icherrish.com/company
+Data file = /home/icherrish.com/public_html/company/wp-content/themes/solak/inc/demo-data/solak-demo.xml
+Widget file = /home/icherrish.com/public_html/company/wp-content/themes/solak/inc/demo-data/solak-widgets-demo.json
+Customizer file = not defined!
+Redux files:
+solak_opt -> /home/icherrish.com/public_html/company/wp-content/themes/solak/inc/demo-data/redux_options_demo.json 
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "woocommerce-placeholder" (Media)
+[ERROR] Failed to import "logo" (Media)
+[ERROR] Failed to import "breadcumb-bg" (Media)
+[ERROR] Failed to import "blog_inner_1" (Media)
+[ERROR] Failed to import "blog_inner_2" (Media)
+[ERROR] Failed to import "blog-s-1-1" (Media)
+[ERROR] Failed to import "blog-s-1-2" (Media)
+[ERROR] Failed to import "blog-s-1-3" (Media)
+[ERROR] Failed to import "blog-s-1-4" (Media)
+[ERROR] Failed to import "blog-s-1-5" (Media)
+[ERROR] Failed to import "blog-s-1-6" (Media)
+[ERROR] Failed to import "brand_1_5" (Media)
+[ERROR] Failed to import "brand_1_6" (Media)
+[ERROR] Failed to import "brand_1_1" (Media)
+[ERROR] Failed to import "brand_1_2" (Media)
+[ERROR] Failed to import "brand_1_3" (Media)
+[ERROR] Failed to import "brand_1_4" (Media)
+[ERROR] Failed to import "hero_overlay_1" (Media)
+[ERROR] Failed to import "hero-img-1" (Media)
+[ERROR] Failed to import "hero-img-2" (Media)
+[ERROR] Failed to import "doller" (Media)
+[ERROR] Failed to import "hero_bg_1_1" (Media)
+[ERROR] Failed to import "hero_bg_1_2" (Media)
+[ERROR] Failed to import "hero_bg_1_3" (Media)
+[ERROR] Failed to import "hero_bg_1_4" (Media)
+[ERROR] Failed to import "hero-shape" (Media)
+[ERROR] Failed to import "feature_1_3" (Media)
+[ERROR] Failed to import "feature_1_4" (Media)
+[ERROR] Failed to import "feature_1_1" (Media)
+[ERROR] Failed to import "feature_1_2" (Media)
+[ERROR] Failed to import "about_1_1" (Media)
+[ERROR] Failed to import "signature" (Media)
+[ERROR] Failed to import "counter_1_3" (Media)
+[ERROR] Failed to import "counter_1_4" (Media)
+[ERROR] Failed to import "counter_1_1" (Media)
+[ERROR] Failed to import "counter_1_2" (Media)
+[ERROR] Failed to import "counter_card_1_1" (Media)
+[ERROR] Failed to import "counter_card_1_2" (Media)
+[ERROR] Failed to import "counter_card_1_3" (Media)
+[ERROR] Failed to import "cta_1_2" (Media)
+[ERROR] Failed to import "cta_1_1" (Media)
+[ERROR] Failed to import "about_1_2" (Media)
+[ERROR] Failed to import "about_1_2" (Media)
+[ERROR] Failed to import "about_1_1" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "dot-shape" (Media)
+[ERROR] Failed to import "team_1_7" (Media)
+[ERROR] Failed to import "team_1_8" (Media)
+[ERROR] Failed to import "team_1_1" (Media)
+[ERROR] Failed to import "team_1_2" (Media)
+[ERROR] Failed to import "team_1_3" (Media)
+[ERROR] Failed to import "team_1_4" (Media)
+[ERROR] Failed to import "team_1_5" (Media)
+[ERROR] Failed to import "team_1_6" (Media)
+[ERROR] Failed to import "project_bg_1" (Media)
+[ERROR] Failed to import "shape-2" (Media)
+[ERROR] Failed to import "testi_1_1" (Media)
+[ERROR] Failed to import "testi_1_2" (Media)
+[ERROR] Failed to import "testi_1_3" (Media)
+[ERROR] Failed to import "faq-image" (Media)
+[ERROR] Failed to import "process_1_1" (Media)
+[ERROR] Failed to import "process_1_2" (Media)
+[ERROR] Failed to import "process_1_3" (Media)
+[ERROR] Failed to import "process_1_4" (Media)
+[ERROR] Failed to import "project_1_1" (Media)
+[ERROR] Failed to import "project_1_2" (Media)
+[ERROR] Failed to import "project_1_3" (Media)
+[ERROR] Failed to import "service_bg_1" (Media)
+[ERROR] Failed to import "service_1_4" (Media)
+[ERROR] Failed to import "service_1_5" (Media)
+[ERROR] Failed to import "service_1_6" (Media)
+[ERROR] Failed to import "service_1_7" (Media)
+[ERROR] Failed to import "service_1_8" (Media)
+[ERROR] Failed to import "service_1_1" (Media)
+[ERROR] Failed to import "service_1_2" (Media)
+[ERROR] Failed to import "service_1_3" (Media)
+[ERROR] Failed to import "service_1_7" (Media)
+[ERROR] Failed to import "service_1_8" (Media)
+[ERROR] Failed to import "service_1_1" (Media)
+[ERROR] Failed to import "service_1_2" (Media)
+[ERROR] Failed to import "service_1_3" (Media)
+[ERROR] Failed to import "service_1_4" (Media)
+[ERROR] Failed to import "service_1_5" (Media)
+[ERROR] Failed to import "service_1_6" (Media)
+[ERROR] Failed to import "service_overlay" (Media)
+[ERROR] Failed to import "hero_bg_2" (Media)
+[ERROR] Failed to import "hero-image" (Media)
+[ERROR] Failed to import "hero-shape2" (Media)
+[ERROR] Failed to import "about_2_1" (Media)
+[ERROR] Failed to import "about_2_2" (Media)
+[ERROR] Failed to import "signature2" (Media)
+[ERROR] Failed to import "about_2_3" (Media)
+[ERROR] Failed to import "marquee_bg_1" (Media)
+[ERROR] Failed to import "star" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "team_2_4" (Media)
+[ERROR] Failed to import "team_2_5" (Media)
+[ERROR] Failed to import "team_2_1" (Media)
+[ERROR] Failed to import "team_2_2" (Media)
+[ERROR] Failed to import "team_2_3" (Media)
+[ERROR] Failed to import "choose_bg_1" (Media)
+[ERROR] Failed to import "image" (Media)
+[ERROR] Failed to import "image2" (Media)
+[ERROR] Failed to import "image3" (Media)
+[ERROR] Failed to import "shape-1" (Media)
+[ERROR] Failed to import "choose-img" (Media)
+[ERROR] Failed to import "choose_1_2" (Media)
+[ERROR] Failed to import "choose_1_3" (Media)
+[ERROR] Failed to import "choose_1_1" (Media)
+[ERROR] Failed to import "brand_2_4" (Media)
+[ERROR] Failed to import "brand_2_5" (Media)
+[ERROR] Failed to import "brand_2_6" (Media)
+[ERROR] Failed to import "brand_2_7" (Media)
+[ERROR] Failed to import "brand_2_1" (Media)
+[ERROR] Failed to import "brand_2_2" (Media)
+[ERROR] Failed to import "brand_2_3" (Media)
+[ERROR] Failed to import "gallery_1_6" (Media)
+[ERROR] Failed to import "gallery_1_1" (Media)
+[ERROR] Failed to import "gallery_1_2" (Media)
+[ERROR] Failed to import "gallery_1_3" (Media)
+[ERROR] Failed to import "gallery_1_4" (Media)
+[ERROR] Failed to import "gallery_1_5" (Media)
+[ERROR] Failed to import "testi_bg_1" (Media)
+[ERROR] Failed to import "testi_bg_2" (Media)
+[ERROR] Failed to import "contact-img" (Media)
+[ERROR] Failed to import "contact_bg_1" (Media)
+[ERROR] Failed to import "contact_bg_2" (Media)
+[ERROR] Failed to import "project_2_3" (Media)
+[ERROR] Failed to import "project_2_4" (Media)
+[ERROR] Failed to import "project_2_1" (Media)
+[ERROR] Failed to import "project_2_2" (Media)
+[ERROR] Failed to import "choose-img2" (Media)
+[ERROR] Failed to import "hero_bg_3_2" (Media)
+[ERROR] Failed to import "hero_bg_3_3" (Media)
+[ERROR] Failed to import "hero_bg_3_1" (Media)
+[ERROR] Failed to import "hero-shape3" (Media)
+[ERROR] Failed to import "choose_1_1" (Media)
+[ERROR] Failed to import "choose_1_2" (Media)
+[ERROR] Failed to import "about_4_1" (Media)
+[ERROR] Failed to import "counter_2_2" (Media)
+[ERROR] Failed to import "counter_2_3" (Media)
+[ERROR] Failed to import "counter_2_4" (Media)
+[ERROR] Failed to import "counter_2_1" (Media)
+[ERROR] Failed to import "process_bg_1" (Media)
+[ERROR] Failed to import "process_1_1" (Media)
+[ERROR] Failed to import "process_1_2" (Media)
+[ERROR] Failed to import "process_1_3" (Media)
+[ERROR] Failed to import "process_1_4" (Media)
+[ERROR] Failed to import "service_bg_2" (Media)
+[ERROR] Failed to import "service_2_1" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "service_2_2" (Media)
+[ERROR] Failed to import "service_2_3" (Media)
+[ERROR] Failed to import "service_2_4" (Media)
+[ERROR] Failed to import "service_2_5" (Media)
+[ERROR] Failed to import "service_2_6" (Media)
+[ERROR] Failed to import "team_3_1" (Media)
+[ERROR] Failed to import "team_3_2" (Media)
+[ERROR] Failed to import "team_3_3" (Media)
+[ERROR] Failed to import "team_3_4" (Media)
+[ERROR] Failed to import "star2" (Media)
+[ERROR] Failed to import "quote" (Media)
+[ERROR] Failed to import "testi_bg_3" (Media)
+[ERROR] Failed to import "shape-4" (Media)
+[ERROR] Failed to import "project_3_5" (Media)
+[ERROR] Failed to import "project_3_6" (Media)
+[ERROR] Failed to import "project_3_7" (Media)
+[ERROR] Failed to import "project_3_8" (Media)
+[ERROR] Failed to import "project_3_9" (Media)
+[ERROR] Failed to import "project_3_1" (Media)
+[ERROR] Failed to import "project_3_2" (Media)
+[ERROR] Failed to import "project_3_3" (Media)
+[ERROR] Failed to import "project_3_4" (Media)
+[ERROR] Failed to import "choose-img3" (Media)
+[ERROR] Failed to import "choose_bg_2" (Media)
+[ERROR] Failed to import "gallery_1_2" (Media)
+[ERROR] Failed to import "gallery_1_3" (Media)
+[ERROR] Failed to import "gallery_1_4" (Media)
+[ERROR] Failed to import "gallery_1_5" (Media)
+[ERROR] Failed to import "gallery_1_6" (Media)
+[ERROR] Failed to import "gallery_1_1" (Media)
+[ERROR] Failed to import "testi_1_7" (Media)
+[ERROR] Failed to import "testi_1_8" (Media)
+[ERROR] Failed to import "testi_1_9" (Media)
+[ERROR] Failed to import "testi_1_10" (Media)
+[ERROR] Failed to import "testi_1_11" (Media)
+[ERROR] Failed to import "testi_1_12" (Media)
+[ERROR] Failed to import "testi_1_4" (Media)
+[ERROR] Failed to import "testi_1_5" (Media)
+[ERROR] Failed to import "testi_1_6" (Media)
+[ERROR] Failed to import "shape-5" (Media)
+[ERROR] Failed to import "contact-img2" (Media)
+[ERROR] Failed to import "consult_bg_1" (Media)
+[ERROR] Failed to import "demo" (Media)
+[ERROR] Failed to import "service_details" (Media)
+[ERROR] Failed to import "process_2_2" (Media)
+[ERROR] Failed to import "process_2_3" (Media)
+[ERROR] Failed to import "process_2_1" (Media)
+[ERROR] Failed to import "service_inner_1" (Media)
+[ERROR] Failed to import "service_inner_2" (Media)
+[ERROR] Failed to import "project_5_2" (Media)
+[ERROR] Failed to import "project_5_3" (Media)
+[ERROR] Failed to import "project_5_4" (Media)
+[ERROR] Failed to import "project_5_5" (Media)
+[ERROR] Failed to import "project_5_6" (Media)
+[ERROR] Failed to import "project_5_7" (Media)
+
+
+---Importing widgets---
+Blog Sidebar : 
+
+solak_search_form_widget - No Title - Site does not support widget
+solak_category_list_widget - Categories - Site does not support widget
+solak_recent_posts_widget - Recent Posts - Site does not support widget
+Block - No Title - Widget already exists
+
+Offcanvas Sidebar : 
+
+Block - No Title - Widget already exists
+solak_recent_posts_widget - Recent Posts - Site does not support widget
+Block - No Title - Widget already exists
+
+
+
+---Importing Redux settings---
+Redux settings import for: solak_opt finished successfully!
+
+---ocdi/after_import---
+

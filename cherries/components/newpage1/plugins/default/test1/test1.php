@@ -1,0 +1,7 @@
+<!--- **** THIS WHERE YOU PUT THE HTML OR OTHER CODE FOR YOUR NEW PAGE 	****/ --->
+<!--- **** CAREFUL WITH CONFLICTING CSS and JS SCRIPTS HERE. 			****/ --->
+<!--- **** USE BOOTSTRAP 3.X IF YOU ARE GOING TO USE IT 				****/ --->
+
+
+<center><p>TEST 1</p><p>TEST PAGE 1</p></center>
+

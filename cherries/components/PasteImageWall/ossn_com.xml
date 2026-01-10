@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component xmlns="http://www.opensource-socialnetwork.org/v/3.0">
+    <name>PasteImageWall</name>
+    <id>PasteImageWall</id>
+    <author>OpenTeknik</author>
+    <description>Paste Image in Wall.</description>
+    <license>OPEN SOURCE SOCIAL NETWORK LICENSE 4.0</license>
+    <author_url>http://www.arsalanshah.com/</author_url>
+    <license_url>https://www.opensource-socialnetwork.org/licence/v4.0.html</license_url>
+    <version>1.0</version>
+	<requires>
+		<type>ossn_version</type>
+		<version>8.0</version>
+	</requires>
+</component>

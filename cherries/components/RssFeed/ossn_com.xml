@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component xmlns="http://www.opensource-socialnetwork.org/v/3.0">
+    <name>RSS Feed</name>
+    <id>RssFeed</id>
+    <author>MadRomas</author>
+    <description>Allows admin to add a rss feed through Admin Panel, to the right sidebar, for mobile on top.</description>
+    <license>GNU General Public Licence (GPL) version 2</license>
+    <license_url>http://www.opensource-socialnetwork.org/licence/</license_url>
+    <version>1.2</version>
+	<requires>
+		<type>ossn_version</type>
+		<version>5.2</version>
+	</requires>
+</component>

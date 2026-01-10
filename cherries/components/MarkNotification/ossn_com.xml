@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component xmlns="http://www.opensource-socialnetwork.org/v/3.0">
+    <name>Mark Notification</name>
+    <id>MarkNotification</id>
+    <description>Allows Users to mark a notification as read, without being taken to the notification's topic item.</description>
+	<author>Michieal O'Sullivan</author>
+	<author_url>https://www.apophissoftware.com/</author_url>
+	<license>GNU General Public License v3</license>
+	<license_url>https://www.gnu.org/licenses/gpl-3.0.en.html</license_url>
+    <version>6.1.2.0</version>
+	<requires>
+		<type>ossn_version</type>
+		<version>6.1</version>
+	</requires>
+	<requires>
+		<type>ossn_component</type>
+		<name>OssnNotifications</name>
+		<comparator>enabled</comparator>
+	</requires>
+</component>

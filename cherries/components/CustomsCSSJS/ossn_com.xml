@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component xmlns="http://www.opensource-socialnetwork.org/v/3.0">
+    <name>Customs CSS/JS</name>
+    <id>CustomsCSSJS</id>
+    <author>Original code by Geocadin RA - Forked and fixed by Hugo Cuellar</author>
+    <description>Allows to add customs CSS styles or JS scripts.</description>
+    <license>GNU General Public License, version 2</license>
+    <author_url>https://www.opensource-socialnetwork.org/u/Erassus</author_url>
+    <license_url>http://www.opensource-socialnetwork.org/licence/</license_url>
+    <version>2.1</version>
+	<requires>
+		<type>ossn_version</type>
+		<version>6.1</version>
+	</requires>
+</component>

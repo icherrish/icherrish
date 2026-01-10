@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component xmlns="http://www.opensource-socialnetwork.org/v/3.0">
+    <name>Mentions Wall</name>
+    <id>MentionsWall</id>
+    <author>AT3META</author>
+    <author_url>https://github.com/at3meta</author_url>
+    <description>Mentions Users on the Wall</description>
+    <license>GPLv3</license>
+    <license_url>https://www.gnu.org/licenses/gpl-3.0.en.html</license_url>
+    <version>1.2</version>
+	<requires>
+		<type>ossn_version</type>
+		<version>5.0</version>
+	</requires>
+</component>

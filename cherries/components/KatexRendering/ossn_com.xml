@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component xmlns="http://www.opensource-socialnetwork.org/v/3.0">
+    <name>KaTeX Rendering</name>
+    <id>KatexRendering</id>
+    <description>Support for KaTeX</description>
+    <author>Michael Zülsdorff</author>
+    <author_url>https://comz.z-mans.net/</author_url>
+    <license>GNU General Public License v2</license>
+    <license_url>https://www.gnu.de/documents/gpl-2.0.en.html</license_url>
+    <version>6.1</version>
+	<requires>
+		<type>ossn_version</type>
+		<version>6.0</version>
+	</requires>
+	<requires>
+		<type>ossn_component</type>
+		<name>TextareaSupport</name>
+		<version>6.6</version>
+	</requires>	
+</component>

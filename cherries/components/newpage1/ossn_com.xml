@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component xmlns="http://www.opensource-socialnetwork.org/v/4.x">
+    <name>NEWPAGE 1</name>
+    <id>newpage1</id>
+    <author>Leeper</author>
+    <description>A new page</description>
+    <license>GNU General Public License, version 2</license>
+    <author_url></author_url>
+    <license_url>http://www.opensource-socialnetwork.org/licence/</license_url>
+    <version>1.1</version>
+	<requires>
+		<type>ossn_version</type>
+		<version>4.6</version>
+	</requires>
+</component>

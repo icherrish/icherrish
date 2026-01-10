@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component xmlns="http://www.opensource-socialnetwork.org/v/3.0">
+    <name>Group and Pages Posts Newsfeed</name>
+    <id>GroupPagesPostsNewsfeed</id>
+    <author>Engr. Arsalan Shah</author>
+    <description>Show group and business pages posts in newsfeed</description>
+    <license>OPENTEKNIK LLC, COMMERCIAL LICENSE v1.0</license>
+    <author_url>https://www.openteknik.com/</author_url>
+    <license_url>https://www.opensource-socialnetwork.org/licence/</license_url>
+    <version>2.0</version>
+	<requires>
+		<type>ossn_version</type>
+		<version>6.0</version>
+	</requires>
+	<requires>
+		<type>ossn_component</type>
+		<name>PopularPosts</name>
+		<comparator>disabled</comparator>
+	</requires>	
+	<requires>
+		<type>ossn_component</type>
+		<name>GroupPostsNewsfeed</name>
+		<comparator>disabled</comparator>
+	</requires>		
+</component>

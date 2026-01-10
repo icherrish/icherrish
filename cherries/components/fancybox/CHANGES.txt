@@ -1,0 +1,34 @@
+Fancybox 2.3
+=============
+
+* Open images in comment section 
+
+Fancybox 2.2
+=============
+
+* Album images show in grouped mode 
+
+Fancybox 2.0
+=============
+
+* Fancybox open after pagination load
+* Using fancybox v.4, instead v.2
+* Added language support
+* Add option to show or not fancybox in photo albums
+
+Fancybox 1.5
+=============
+
+* Users graphic disappear in admin dashboard #2
+
+Fancybox 1.4
+=============
+
+Migration for Ossn v3.0
+
+Fancybox 1.2
+=============
+
+Bugfixes:
+
+* Make sure image didn't disappear

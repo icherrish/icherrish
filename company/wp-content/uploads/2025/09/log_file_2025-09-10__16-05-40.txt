@@ -1,0 +1,74 @@
+
+---Downloaded files---
+The import files for: Solak Demo were successfully downloaded!
+Initial max execution time = 3000
+Files info:
+Site URL = https://wordpress.themehour.net/solak
+Data file = /home/themehou/wordpress.themehour.net/solak/wp-content/themes/solak/inc/demo-data/solak-demo.xml
+Widget file = /home/themehou/wordpress.themehour.net/solak/wp-content/themes/solak/inc/demo-data/solak-widgets-demo.json
+Customizer file = not defined!
+Redux files:
+solak_opt -> /home/themehou/wordpress.themehour.net/solak/wp-content/themes/solak/inc/demo-data/redux_options_demo.json 
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+---Importing widgets---
+Blog Sidebar : 
+
+Solak :: Search Form - No Title - Imported
+Solak :: Category List - Categories - Imported
+Solak :: Recent Posts - Recent Posts - Imported
+Block - No Title - Imported
+
+Offcanvas Sidebar : 
+
+Block - No Title - Imported
+Solak :: Recent Posts - Recent Posts - Imported
+Block - No Title - Imported
+
+
+
+---Importing Redux settings---
+Redux settings import for: solak_opt finished successfully!
+
+---ocdi/after_import---
+
