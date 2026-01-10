@@ -42,7 +42,8 @@ body{
 	display:block;
 	height:38px; 
 	padding:0 16px; 
-	font:22px/38px "BebasNeue"; 
+	line-height:36px;
+	/* font:22px/38px "BebasNeue";  */
 	color:#FFF; 
 	text-decoration:none;
 	-webkit-transition:color 200ms linear, background 200ms linear;

@@ -6,7 +6,7 @@
     <link rel="dns-prefetch" href="//cse.google.com">
     <?php sp_head(); ?>
     <link rel="shortcut icon" type="image/x-icon" href="<?=base_uri('favicon.ico')?>">
-    <link rel="stylesheet" id="nav-animation-styles" type="text/css" href="<?=base_uri('/site/themes/default/assets/css/theme_1_animation_1.css')?>">
+    <link rel="stylesheet" id="nav-animation-styles" type="text/css" href="<?=base_uri('/site/themes/default/assets/css/theme_1_animation_1.css?v=1')?>">
     <link rel="stylesheet" id="nav-responsive-styles" type="text/css" href="<?=base_uri('/site/themes/default/assets/css/theme_1_responsive.css')?>">
 
     <!--[if lt IE 9]>
