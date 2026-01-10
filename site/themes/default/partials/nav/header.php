@@ -3,6 +3,160 @@
 <link rel="stylesheet" id="theme-styles" type="text/css" href="https://icherrish.com/site/themes/default/assets/css/animations.css">
 
 <link rel="stylesheet" id="theme-styles" type="text/css" href="https://icherrish.com/site/themes/default/assets/css/font-awesome.min.css">
+	<!-- Main Navigation Container / Start -->
+	<div class="main-navigation-container">
+    	<!-- Main Navigation / Start -->
+        <nav class="main-navigation">
+            <ul>
+            	<!-- Link / Start -->
+                <li class="active-nav-link"><a href="#">FEEDS</a>
+                	<!-- Submenu / Start -->
+                    <div class="submenu">
+                        <ul>
+                            <li class="active-nav-link"><a href="#">Newsfeed</a></li>
+                            <li><a href="#">Videofeed</a></li>
+                            <li><a href="#">Browser</a></li>
+                        </ul>
+                    </div>
+                    <!-- Submenu / End -->
+                </li>
+                <!-- Link / End -->
+                <!-- Link / Start -->
+                <li><a href="#">EDGE</a>
+                	<!-- Submenu / Start -->
+                    <div class="submenu">
+                        <ul>
+                            <li><a href="#">Dashboard</a></li>
+                            <li><a href="#">Talkactive</a></li>
+                        </ul>
+                    </div>
+                    <!-- Submenu / End -->
+                </li>
+                <!-- Link / End -->
+                <!-- Link / Start -->
+                <li><a href="#">CHECKOUT</a>
+                	<!-- Submenu / Start -->
+                    <div class="submenu">
+                        <ul>
+                            <li><a href="#">Icherrishpay</a></li>
+                            <li><a href="#">NFC</a></li>
+                            <li><a href="#">QRPAY</a></li>
+                        </ul>
+                    </div>
+                    <!-- Submenu / End -->
+                </li>
+                <!-- Link / End -->
+                <!-- Link / Start -->
+                <li><a href="#">NEXUS</a>
+                	<!-- Submenu / Start -->
+                    <div class="submenu">
+                        <ul>
+                            <li><a href="#">Cherries</a></li>
+                            <li><a href="#">Audience</a></li>
+                            <li><a href="#">Payperview</a></li>
+                        </ul>
+                    </div>
+                    <!-- Submenu / End -->
+                </li>
+                <!-- Link / End -->
+                <!-- Link / Start -->
+                <li><a href="#">CYCLONES</a>
+                	<!-- Submenu / Start -->
+                    <div class="submenu">
+                        <ul>
+                            <li><a href="#">School</a></li>
+                            <li><a href="#">Ministore</a></li>
+                            <li><a href="#">Sweethome</a></li>
+                            <li><a href="#">Travel</a></li>
+                            <li><a href="#">Company</a></li>
+                        </ul>
+                    </div>
+                    <!-- Submenu / End -->
+                </li>
+                <!-- Link / End -->
+                <!-- Link / Start -->
+                <li><a href="#">WEBTOOLS</a>
+                	<!-- Submenu / Start -->
+                    <div class="submenu">
+                        <ul>
+                            <li><a href="#">Webtools</a></li>
+                            <li><a href="#">Web3</a></li>
+                        </ul>
+                    </div>
+                    <!-- Submenu / End -->
+                </li>
+                <!-- Link / End -->
+                <!-- Link / Start -->
+                <li><a href="#">STAGA</a>
+                	<!-- Submenu / Start -->
+                    <div class="submenu">
+                        <ul>
+                            <li><a href="#">Webhosting</a></li>
+                            <li><a href="#">Apphosting</a></li>
+                            <li><a href="#">Site builder</a></li>
+                            <li><a href="#">Templates</a></li>
+                            <li><a href="#">Email/social marketing</a></li>
+                        </ul>
+                    </div>
+                    <!-- Submenu / End -->
+                </li>
+                <!-- Link / End -->
+                <!-- Link / Start -->
+                <li><a href="#">NOVO</a>
+                	<!-- Submenu / Start -->
+                    <div class="submenu">
+                        <ul>
+                            <li><a href="#">AI this</a></li>
+                            <li><a href="#">Ai that</a></li>
+                        </ul>
+                    </div>
+                    <!-- Submenu / End -->
+                </li>
+                <!-- Link / End -->
+                <!-- Link / Start -->
+                <li><a href="#">SPORTS</a>
+                	<!-- Submenu / Start -->
+                    <div class="submenu">
+                        <ul>
+                            <li><a href="#">Sport bets(1)</a></li>
+                            <li><a href="#">(2)</a></li>
+                            <li><a href="#">(3)</a></li>
+                            <li><a href="#">(4)</a></li>
+                        </ul>
+                    </div>
+                    <!-- Submenu / End -->
+                </li>
+                <!-- Link / End -->
+                <!-- Link / Start -->
+                <li><a href="#">CLOUDHOST</a>
+                	<!-- Submenu / Start -->
+                    <div class="submenu">
+                        <ul>
+                            <li><a href="#">Hosting</a></li>
+                        </ul>
+                    </div>
+                    <!-- Submenu / End -->
+                </li>
+                <!-- Link / End -->
+                <!-- Link / Start -->
+                <li><a href="#">MORE</a>
+                	<!-- Submenu / Start -->
+                    <div class="submenu">
+                        <ul>
+                            <li><a href="#">Conferencing</a></li>
+                            <li><a href="#">E-health</a></li>
+                            <li><a href="#">CherrishCredit( V.c)</a></li>
+                            <li><a href="#">Capita.fortuna</a></li>
+                        </ul>
+                    </div>
+                    <!-- Submenu / End -->
+                </li>
+                <!-- Link / End -->
+            </ul>
+    	</nav>
+        <!-- Main Navigation / End -->
+	</div>
+    <!-- Main Navigation Container / End -->
 <header class="site-navbar navbar-light" id="site-navbar">
   <div class="container">
     <div class="row">
