@@ -1,0 +1,16 @@
+[2026-02-01 13:12:24] SlimMonoLogger.ERROR: Stash\Exception\InvalidArgumentException: Invalid or Empty Node passed to getItem constructor. in /home/icherrish.com/public_html/src/vendor/tedivm/stash/src/Stash/Pool.php:115
+Stack trace:
+#0 /home/icherrish.com/public_html/src/drivers/Http/InstantAnswer.php(23): Stash\Pool->getItem()
+#1 /home/icherrish.com/public_html/src/controllers/Site/SiteController.php(829): spark\drivers\Http\InstantAnswer->getAnswer()
+#2 [internal function]: spark\controllers\Site\SiteController->search()
+#3 /home/icherrish.com/public_html/src/framework/Route.php(173): call_user_func_array()
+#4 [internal function]: Slim\Route->Slim\{closure}()
+#5 /home/icherrish.com/public_html/src/framework/Route.php(468): call_user_func_array()
+#6 /home/icherrish.com/public_html/src/framework/Slim.php(1364): Slim\Route->dispatch()
+#7 /home/icherrish.com/public_html/src/framework/Middleware/Flash.php(85): Slim\Slim->call()
+#8 /home/icherrish.com/public_html/src/framework/Middleware/MethodOverride.php(92): Slim\Middleware\Flash->call()
+#9 /home/icherrish.com/public_html/src/middlewares/CsrfGuard/CsrfGuard.php(47): Slim\Middleware\MethodOverride->call()
+#10 /home/icherrish.com/public_html/src/framework/Middleware/PrettyExceptions.php(67): spark\middlewares\CsrfGuard\CsrfGuard->call()
+#11 /home/icherrish.com/public_html/src/framework/Slim.php(1308): Slim\Middleware\PrettyExceptions->call()
+#12 /home/icherrish.com/public_html/index.php(6): Slim\Slim->run()
+#13 {main} [] []
