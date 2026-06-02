@@ -5,6 +5,10 @@ projects/staging/src/var/sessions/
 projects/staging/src/var/cache/
 projects/staging/src/var/logs/
 projects/staging/src/var/tmp/
+src/var/sessions/ 
+src/var/cache/ 
+src/var/logs/ 
+src/var/tmp/
 company/wp-content/uploads/wc-logs/
 edge/application/vendor/
 acada/*.zip
