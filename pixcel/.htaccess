@@ -1,0 +1,7 @@
+RewriteEngine On
+RewriteCond %{HTTPS} !=on
+RewriteRule ^/?(.*) https://%{SERVER_NAME}/$1 [R,L]
+
+RewriteCond %{HTTP:Upgrade} =websocket [NC]
+RewriteRule /(.*)           ws://127.0.0.1:5678/$1 [P,L]
+RewriteRule ^(.*)$ http://127.0.0.1:5678/$1 [P,L]
