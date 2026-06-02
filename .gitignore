@@ -1,5 +1,12 @@
 *.zip
 acada_backup.zip
+cherries/cache/
+projects/staging/src/var/sessions/
+projects/staging/src/var/cache/
+projects/staging/src/var/logs/
+projects/staging/src/var/tmp/
+company/wp-content/uploads/wc-logs/
+edge/application/vendor/
 acada/*.zip
 src/var/sessions
 */vendor/*
